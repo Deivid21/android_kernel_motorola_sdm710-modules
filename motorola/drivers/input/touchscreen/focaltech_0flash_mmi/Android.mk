@@ -1,4 +1,4 @@
-DLKM_DIR := motorola/kernel/modules
+DLKM_DIR := kernel/motorola/sdm710-modules/motorola
 LOCAL_PATH := $(call my-dir)
 
 ifneq ($(FOCALTECH_TOUCH_IC_NAME),)

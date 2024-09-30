@@ -1,4 +1,4 @@
-DLKM_DIR := motorola/kernel/modules
+DLKM_DIR := kernel/motorola/sdm710-modules/motorola
 LOCAL_PATH := $(call my-dir)
 
 ifeq ($(PRODUCT_USE_TOF_vl53l3),true)
